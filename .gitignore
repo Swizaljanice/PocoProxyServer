@@ -1,0 +1,17 @@
+# Ignore VS Code/Visual Studio settings
+.vs/
+*.vsidx
+*.suo
+*.user
+*.db
+
+# Ignore build artifacts
+build/
+out/
+x64/
+*.obj
+*.exe
+*.pdb
+*.idb
+*.ilk
+*.log
